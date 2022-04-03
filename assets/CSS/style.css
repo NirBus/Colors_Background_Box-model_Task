@@ -1,0 +1,30 @@
+/* Task !1! */
+/* .image{
+    height: 471px;
+    background-image: url(../image/hintersee-lake-of-bavarian-alps--germany.jpg);
+    padding-left: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: content-box;
+} */
+
+
+/* body{
+    height: 100%;
+    margin: 0;
+    } */
+
+
+/* Task !2! */
+
+.wrapper{
+    height: 471px;
+    background-image: url(../image/hintersee-lake-of-bavarian-alps--germany.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 25px;
+    border: 25px;
+    padding:25px;
+    
+}
+
